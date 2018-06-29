@@ -1,0 +1,12 @@
+what happen when you creat a git repositry? why do you need that ?!
+ans> whn we create a git repositry a file git is created whis is hidden from the user i.e it starts with dot . i.e .git this is a hidden file. to list hidden files along with the other files "ls -a" is used. we need that to set up git environment so that wo can use/ utilize the commit featurer of the git
+
+ques2> wht is the staging area ? why is it there ?
+ans> staging area is intermediate step between the working directory and the git. the files whish are in the staging area ar trcked by git and can be commited, the other files which are there in the working directory bi=ut not in the staging can not be commited and are not tracked. so by using command git add _filename_ ve add that particular file to staging area and then we can commit it. 
+
+ques> what are the some scenarios where branches are useful? why to use branch?
+ans> branches can be used for couple of reasons like experimenting some feature to your project but not yet sure it will turn out right and will be commited. Also if you want to make different version  respect to language,difficulty, or any other particular property of your project the branches will come in handy !
+
+
+ques> how did the visualizaton of branches help you ??
+ans>it help to understand better
